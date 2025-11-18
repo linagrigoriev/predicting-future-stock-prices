@@ -17,7 +17,7 @@ source venv/bin/activate
 `
 
 ## Install packages
-`pip install pandas numpy scikit-learn`
+`pip install pandas numpy scikit-learn yfinance matplotlib`
 
 or
 
